@@ -9,7 +9,6 @@
 - **Android**: Jetpack Compose, Kotlin, MVVM
 - **Backend**: Express.js, MySQL, Retrofit
 - **Data Analysis**: Python, SQL
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gzw-learning&layout=compact)
 
 ---
 
